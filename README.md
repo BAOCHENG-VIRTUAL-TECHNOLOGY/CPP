@@ -2,6 +2,8 @@
 
 # VSCode设置
 
+https://zhuanlan.zhihu.com/p/679355387
+
 ![](1.png)
 
 # MinGW
